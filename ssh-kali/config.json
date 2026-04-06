@@ -1,0 +1,7 @@
+{
+  "host": "you kali ssh ip ",
+  "port": 22,
+  "username": "you name",
+  "password": "you password",
+  "auth_type": "password"
+}
