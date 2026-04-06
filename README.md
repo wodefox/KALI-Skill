@@ -2,15 +2,6 @@
 
 Kali Linux 渗透测试技能框架，融合显性知识、隐性智慧与 AI 协作，构建完整的红队攻防能力体系。
 
-**作者**: Foxes
-
-## 联系方式
-
-<div align="center">
-  <img src="./wechat_qrcode.png" alt="微信二维码" width="200">
-  <p>扫码添加微信交流</p>
-</div>
-
 ## 项目结构
 
 ```
